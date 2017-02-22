@@ -1,0 +1,12 @@
+.searchbox {
+    font-size: 100px;
+    border: none;
+    color: coral;
+    width: 70%;
+}
+.searchbox:active {
+    border: none;
+}
+.glass {
+    width: 25%;
+}
